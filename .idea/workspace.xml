@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1065de-003e-4d56-89eb-447198735823" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Return.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ReturnPromotion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/Tes111.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testcode.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/RandyforTest.iml" afterPath="$PROJECT_DIR$/.idea/RandyforTest.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/RandyForTest.py" afterPath="$PROJECT_DIR$/RandyForTest.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,52 +12,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/RandyforTest$testcode.coverage" NAME="testcode Coverage Results" MODIFIED="1521012006493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RandyforTest$Return.coverage" NAME="Return Coverage Results" MODIFIED="1521015277989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RandyforTest$RandyForTest.coverage" NAME="RandyForTest Coverage Results" MODIFIED="1520993828956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RandyforTest$Tes111.coverage" NAME="Tes111 Coverage Results" MODIFIED="1521163966473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dist" />
+    <SUITE FILE_PATH="coverage/RandyforTest$testcode.coverage" NAME="testcode Coverage Results" MODIFIED="1521012006493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RandyforTest$RandyForTest.coverage" NAME="RandyForTest Coverage Results" MODIFIED="1520993828956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RandyforTest$ReturnPromotion.coverage" NAME="ReturnPromotion Coverage Results" MODIFIED="1521009256111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RandyforTest$Return.coverage" NAME="Return Coverage Results" MODIFIED="1521015277989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandyForTest.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RandyForTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RandyForTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25738">
-              <caret line="1518" column="16" lean-forward="false" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+            <state relative-caret-position="8188">
+              <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
-                <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-                <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-                <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-                <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-                <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-                <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-                <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-                <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-                <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-                <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-                <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-                <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-                <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-                <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-                <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-                <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-                <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-                <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-                <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-                <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-                <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-                <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-                <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-                <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-                <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-                <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-                <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-                <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-                <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-                <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-                <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
               </folding>
             </state>
           </provider>
@@ -73,41 +35,10 @@
       <file leaf-file-name="Return.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Return.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="1640" column="13" lean-forward="false" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
+            <state relative-caret-position="314">
+              <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
-                <marker date="1521015397607" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-                <marker date="1521015397607" expanded="true" signature="9184:9234" ph="update stores... " />
-                <marker date="1521015397607" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-                <marker date="1521015397607" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-                <marker date="1521015397607" expanded="true" signature="10598:10711" ph="select id,ti... on_sell_goods" />
-                <marker date="1521015397607" expanded="true" signature="13193:13352" ph="select id,st... stores" />
-                <marker date="1521015397607" expanded="true" signature="13672:13749" ph="select Store... branch_warehouse_stores" />
-                <marker date="1521015397607" expanded="true" signature="13991:14068" ph="select Store... branch_warehouse_stores" />
-                <marker date="1521015397607" expanded="true" signature="15394:15479" ph="select id fr... stores" />
-                <marker date="1521015397607" expanded="true" signature="15849:15926" ph="select Store... branch_warehouse_stores" />
-                <marker date="1521015397607" expanded="true" signature="16247:16324" ph="select Store... branch_warehouse_stores" />
-                <marker date="1521015397607" expanded="true" signature="17043:17101" ph="select workI... receivers" />
-                <marker date="1521015397607" expanded="true" signature="17414:17446" ph="select id fr... goods" />
-                <marker date="1521015397607" expanded="true" signature="18469:18526" ph="select id fr... goods" />
-                <marker date="1521015397607" expanded="true" signature="20435:20492" ph="select id fr... goods" />
-                <marker date="1521015397607" expanded="true" signature="24746:24828" ph="select id FR... store_order_branches" />
-                <marker date="1521015397607" expanded="true" signature="28688:28867" ph="select id,rg... return_goods_list" />
-                <marker date="1521015397607" expanded="true" signature="30761:30840" ph="select Expre... express_route_details" />
-                <marker date="1521015397607" expanded="true" signature="31481:31641" ph="select a.Pic... pick_list_details" />
-                <marker date="1521015397607" expanded="true" signature="35016:35095" ph="select Expre... express_route_details" />
-                <marker date="1521015397607" expanded="true" signature="35718:35878" ph="select a.Pic... pick_list_details" />
-                <marker date="1521015397607" expanded="true" signature="38705:38838" ph="select cbp_g... cg_base_prices" />
-                <marker date="1521015397607" expanded="true" signature="39804:39899" ph="select ident... check_up_orders" />
-                <marker date="1521015397607" expanded="true" signature="40305:40435" ph="select id,sh... check_up_order_details" />
-                <marker date="1521015397607" expanded="true" signature="43271:43396" ph="select cbp_p... cg_base_prices" />
-                <marker date="1521015397607" expanded="true" signature="44356:44468" ph="select id fr... stock_in_orders" />
-                <marker date="1521015397607" expanded="true" signature="51965:52145" ph="select id,rg... return_goods_list" />
-                <marker date="1521015397607" expanded="true" signature="52405:52501" ph="select id FR... return_goods_list_details" />
-                <marker date="1521015397607" expanded="true" signature="54186:54322" ph="select ident... check_up_orders" />
-                <marker date="1521015397607" expanded="true" signature="55028:55147" ph="select id,nu... on_racks" />
-                <marker date="1521015397607" expanded="true" signature="55232:55308" ph="select id FR... on_rack_details" />
               </folding>
             </state>
           </provider>
@@ -116,17 +47,16 @@
       <file leaf-file-name="Tes111.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testcode.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testcode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="210">
               <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -138,8 +68,8 @@
       <file leaf-file-name="ReturnPromotion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+            <state relative-caret-position="1560">
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
               </folding>
@@ -192,6 +122,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -199,22 +132,10 @@
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,6 +175,7 @@
   </component>
   <component name="RunManager" selected="Python.Tes111">
     <configuration name="RandyForTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RandyforTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,8 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RandyforTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandyForTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -272,6 +194,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="Return" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RandyforTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -282,8 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RandyforTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Return.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -291,6 +213,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="ReturnPromotion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RandyforTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -301,8 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RandyforTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReturnPromotion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -310,6 +232,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="Tes111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RandyforTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -320,8 +243,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RandyforTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dist/Tes111.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -329,6 +251,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="testcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RandyforTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -339,33 +262,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RandyforTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.RandyForTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReturnPromotion" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Return" />
-      <item index="3" class="java.lang.String" itemvalue="Python.testcode" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Tes111" />
+    <list>
+      <item itemvalue="Python.RandyForTest" />
+      <item itemvalue="Python.ReturnPromotion" />
+      <item itemvalue="Python.Return" />
+      <item itemvalue="Python.testcode" />
+      <item itemvalue="Python.Tes111" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Tes111" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Return" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testcode" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReturnPromotion" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RandyForTest" />
+      <list>
+        <item itemvalue="Python.Tes111" />
+        <item itemvalue="Python.Return" />
+        <item itemvalue="Python.testcode" />
+        <item itemvalue="Python.ReturnPromotion" />
+        <item itemvalue="Python.RandyForTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -381,29 +300,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6174603" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6174603" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.2521322" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.2521322" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,46 +336,61 @@
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RandyForTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25738">
-          <caret line="1518" column="16" lean-forward="false" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+        <state relative-caret-position="45420">
+          <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-            <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-            <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-            <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-            <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-            <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-            <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-            <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-            <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49080">
+          <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandyForTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25738">
+          <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -463,40 +398,9 @@
     <entry file="file://$PROJECT_DIR$/Return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27880">
-          <caret line="1640" column="13" lean-forward="false" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
+          <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1521015397607" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1521015397607" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1521015397607" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1521015397607" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="10598:10711" ph="select id,ti... on_sell_goods" />
-            <marker date="1521015397607" expanded="true" signature="13193:13352" ph="select id,st... stores" />
-            <marker date="1521015397607" expanded="true" signature="13672:13749" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="13991:14068" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="15394:15479" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="15849:15926" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="16247:16324" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="17043:17101" ph="select workI... receivers" />
-            <marker date="1521015397607" expanded="true" signature="17414:17446" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="18469:18526" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="20435:20492" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="24746:24828" ph="select id FR... store_order_branches" />
-            <marker date="1521015397607" expanded="true" signature="28688:28867" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="30761:30840" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="31481:31641" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="35016:35095" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="35718:35878" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="38705:38838" ph="select cbp_g... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="39804:39899" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="40305:40435" ph="select id,sh... check_up_order_details" />
-            <marker date="1521015397607" expanded="true" signature="43271:43396" ph="select cbp_p... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="44356:44468" ph="select id fr... stock_in_orders" />
-            <marker date="1521015397607" expanded="true" signature="51965:52145" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="52405:52501" ph="select id FR... return_goods_list_details" />
-            <marker date="1521015397607" expanded="true" signature="54186:54322" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="55028:55147" ph="select id,nu... on_racks" />
-            <marker date="1521015397607" expanded="true" signature="55232:55308" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
@@ -504,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/testcode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="11" />
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="11" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -514,7 +418,7 @@
     <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
@@ -524,48 +428,16 @@
     <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding />
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RandyForTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25738">
-          <caret line="1518" column="16" lean-forward="false" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+          <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-            <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-            <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-            <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-            <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-            <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-            <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-            <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-            <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
@@ -573,40 +445,9 @@
     <entry file="file://$PROJECT_DIR$/Return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27880">
-          <caret line="1640" column="13" lean-forward="false" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
+          <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1521015397607" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1521015397607" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1521015397607" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1521015397607" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="10598:10711" ph="select id,ti... on_sell_goods" />
-            <marker date="1521015397607" expanded="true" signature="13193:13352" ph="select id,st... stores" />
-            <marker date="1521015397607" expanded="true" signature="13672:13749" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="13991:14068" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="15394:15479" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="15849:15926" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="16247:16324" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="17043:17101" ph="select workI... receivers" />
-            <marker date="1521015397607" expanded="true" signature="17414:17446" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="18469:18526" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="20435:20492" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="24746:24828" ph="select id FR... store_order_branches" />
-            <marker date="1521015397607" expanded="true" signature="28688:28867" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="30761:30840" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="31481:31641" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="35016:35095" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="35718:35878" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="38705:38838" ph="select cbp_g... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="39804:39899" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="40305:40435" ph="select id,sh... check_up_order_details" />
-            <marker date="1521015397607" expanded="true" signature="43271:43396" ph="select cbp_p... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="44356:44468" ph="select id fr... stock_in_orders" />
-            <marker date="1521015397607" expanded="true" signature="51965:52145" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="52405:52501" ph="select id FR... return_goods_list_details" />
-            <marker date="1521015397607" expanded="true" signature="54186:54322" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="55028:55147" ph="select id,nu... on_racks" />
-            <marker date="1521015397607" expanded="true" signature="55232:55308" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
@@ -614,7 +455,7 @@
     <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
@@ -624,48 +465,16 @@
     <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RandyForTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25806">
-          <caret line="1518" column="16" lean-forward="false" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+          <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-            <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-            <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-            <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-            <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-            <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-            <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-            <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-            <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
@@ -673,7 +482,7 @@
     <entry file="file://$PROJECT_DIR$/testcode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="11" />
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="11" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -683,7 +492,7 @@
     <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
@@ -693,81 +502,18 @@
     <entry file="file://$PROJECT_DIR$/Return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27880">
-          <caret line="1640" column="13" lean-forward="false" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
+          <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1521015397607" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1521015397607" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1521015397607" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1521015397607" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="10598:10711" ph="select id,ti... on_sell_goods" />
-            <marker date="1521015397607" expanded="true" signature="13193:13352" ph="select id,st... stores" />
-            <marker date="1521015397607" expanded="true" signature="13672:13749" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="13991:14068" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="15394:15479" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="15849:15926" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="16247:16324" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="17043:17101" ph="select workI... receivers" />
-            <marker date="1521015397607" expanded="true" signature="17414:17446" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="18469:18526" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="20435:20492" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="24746:24828" ph="select id FR... store_order_branches" />
-            <marker date="1521015397607" expanded="true" signature="28688:28867" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="30761:30840" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="31481:31641" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="35016:35095" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="35718:35878" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="38705:38838" ph="select cbp_g... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="39804:39899" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="40305:40435" ph="select id,sh... check_up_order_details" />
-            <marker date="1521015397607" expanded="true" signature="43271:43396" ph="select cbp_p... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="44356:44468" ph="select id fr... stock_in_orders" />
-            <marker date="1521015397607" expanded="true" signature="51965:52145" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="52405:52501" ph="select id FR... return_goods_list_details" />
-            <marker date="1521015397607" expanded="true" signature="54186:54322" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="55028:55147" ph="select id,nu... on_racks" />
-            <marker date="1521015397607" expanded="true" signature="55232:55308" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RandyForTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-            <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-            <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-            <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-            <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-            <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-            <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-            <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-            <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
           </folding>
         </state>
       </provider>
@@ -775,7 +521,7 @@
     <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2312">
-          <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
@@ -784,8 +530,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReturnPromotion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        <state relative-caret-position="1560">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="1640" column="13" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
@@ -794,100 +567,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RandyForTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25738">
-          <caret line="1518" column="16" lean-forward="false" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
+        <state relative-caret-position="8188">
+          <caret line="1518" column="16" selection-start-line="1518" selection-start-column="16" selection-end-line="1518" selection-end-column="57" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <marker date="1520992210221" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1520992210221" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1520992210221" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1520992210221" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="10619:10732" ph="select id,ti... on_sell_goods" />
-            <marker date="1520992210221" expanded="true" signature="13164:13323" ph="select id,st... stores" />
-            <marker date="1520992210221" expanded="true" signature="13643:13720" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="13962:14039" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="15365:15450" ph="select id fr... stores" />
-            <marker date="1520992210221" expanded="true" signature="15820:15897" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="16218:16295" ph="select Store... branch_warehouse_stores" />
-            <marker date="1520992210221" expanded="true" signature="17014:17072" ph="select workI... receivers" />
-            <marker date="1520992210221" expanded="true" signature="17385:17417" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="18440:18497" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="20406:20463" ph="select id fr... goods" />
-            <marker date="1520992210221" expanded="true" signature="24717:24799" ph="select id FR... store_order_branches" />
-            <marker date="1520992210221" expanded="true" signature="28659:28838" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="30713:30792" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="31433:31593" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="34968:35047" ph="select Expre... express_route_details" />
-            <marker date="1520992210221" expanded="true" signature="35670:35830" ph="select a.Pic... pick_list_details" />
-            <marker date="1520992210221" expanded="true" signature="38657:38790" ph="select cbp_g... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="39756:39851" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="40257:40387" ph="select id,sh... check_up_order_details" />
-            <marker date="1520992210221" expanded="true" signature="43223:43348" ph="select cbp_p... cg_base_prices" />
-            <marker date="1520992210221" expanded="true" signature="44308:44420" ph="select id fr... stock_in_orders" />
-            <marker date="1520992210221" expanded="true" signature="51917:52097" ph="select id,rg... return_goods_list" />
-            <marker date="1520992210221" expanded="true" signature="52357:52453" ph="select id FR... return_goods_list_details" />
-            <marker date="1520992210221" expanded="true" signature="54138:54274" ph="select ident... check_up_orders" />
-            <marker date="1520992210221" expanded="true" signature="54980:55099" ph="select id,nu... on_racks" />
-            <marker date="1520992210221" expanded="true" signature="55184:55260" ph="select id FR... on_rack_details" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Tes111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="1640" column="13" lean-forward="false" selection-start-line="1640" selection-start-column="13" selection-end-line="1640" selection-end-column="13" />
-          <folding>
-            <element signature="e#14#25#0" expanded="true" />
-            <marker date="1521015397607" expanded="true" signature="7695:7757" ph="select code coupon_codes" />
-            <marker date="1521015397607" expanded="true" signature="9184:9234" ph="update stores... " />
-            <marker date="1521015397607" expanded="true" signature="9311:9358" ph="select dadou... stores" />
-            <marker date="1521015397607" expanded="true" signature="9602:9646" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="10598:10711" ph="select id,ti... on_sell_goods" />
-            <marker date="1521015397607" expanded="true" signature="13193:13352" ph="select id,st... stores" />
-            <marker date="1521015397607" expanded="true" signature="13672:13749" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="13991:14068" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="15394:15479" ph="select id fr... stores" />
-            <marker date="1521015397607" expanded="true" signature="15849:15926" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="16247:16324" ph="select Store... branch_warehouse_stores" />
-            <marker date="1521015397607" expanded="true" signature="17043:17101" ph="select workI... receivers" />
-            <marker date="1521015397607" expanded="true" signature="17414:17446" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="18469:18526" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="20435:20492" ph="select id fr... goods" />
-            <marker date="1521015397607" expanded="true" signature="24746:24828" ph="select id FR... store_order_branches" />
-            <marker date="1521015397607" expanded="true" signature="28688:28867" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="30761:30840" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="31481:31641" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="35016:35095" ph="select Expre... express_route_details" />
-            <marker date="1521015397607" expanded="true" signature="35718:35878" ph="select a.Pic... pick_list_details" />
-            <marker date="1521015397607" expanded="true" signature="38705:38838" ph="select cbp_g... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="39804:39899" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="40305:40435" ph="select id,sh... check_up_order_details" />
-            <marker date="1521015397607" expanded="true" signature="43271:43396" ph="select cbp_p... cg_base_prices" />
-            <marker date="1521015397607" expanded="true" signature="44356:44468" ph="select id fr... stock_in_orders" />
-            <marker date="1521015397607" expanded="true" signature="51965:52145" ph="select id,rg... return_goods_list" />
-            <marker date="1521015397607" expanded="true" signature="52405:52501" ph="select id FR... return_goods_list_details" />
-            <marker date="1521015397607" expanded="true" signature="54186:54322" ph="select ident... check_up_orders" />
-            <marker date="1521015397607" expanded="true" signature="55028:55147" ph="select id,nu... on_racks" />
-            <marker date="1521015397607" expanded="true" signature="55232:55308" ph="select id FR... on_rack_details" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
