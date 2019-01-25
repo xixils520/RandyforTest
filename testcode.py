@@ -1,4 +1,3 @@
-#this is 126
 #this is 127
 import redis
 import json
