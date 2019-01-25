@@ -5,4 +5,3 @@ key_ = 'validateCode:user:{0}'.format(15090658127)
 if rd.exists(key_):
     js = json.loads(rd.get(key_))
     print('\n手机登录验证码:\t', js['code'])
-    print()
